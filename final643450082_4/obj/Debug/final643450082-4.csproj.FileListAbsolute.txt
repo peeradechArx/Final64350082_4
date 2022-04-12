@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\final643450082-4\bin\Debug\final643450082-4.exe.config
+C:\Users\ASUS\source\repos\final643450082-4\bin\Debug\final643450082-4.exe
+C:\Users\ASUS\source\repos\final643450082-4\bin\Debug\final643450082-4.pdb
+C:\Users\ASUS\source\repos\final643450082-4\obj\Debug\final643450082-4.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\final643450082-4\obj\Debug\final643450082-4.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\final643450082-4\obj\Debug\final643450082_4.Form1.resources
+C:\Users\ASUS\source\repos\final643450082-4\obj\Debug\final643450082_4.Properties.Resources.resources
+C:\Users\ASUS\source\repos\final643450082-4\obj\Debug\final643450082-4.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\final643450082-4\obj\Debug\final643450082-4.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\final643450082-4\obj\Debug\final643450082-4.exe
+C:\Users\ASUS\source\repos\final643450082-4\obj\Debug\final643450082-4.pdb
